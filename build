@@ -1,0 +1,4 @@
+#!/bin/bash
+#This is a bash script to compile the C++ Analogin class files.
+
+g++ Analogin.cpp test_analog.cpp -o test_analog
